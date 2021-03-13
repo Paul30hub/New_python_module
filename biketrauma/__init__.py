@@ -1,1 +1,2 @@
-chaîne="__version__"
+__version__="0.01"
+
